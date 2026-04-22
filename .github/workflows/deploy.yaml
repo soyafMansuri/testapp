@@ -3,7 +3,7 @@ name: deploy testapp
 on: 
   push:
     branches:
-      - main
+      - master
 
 jobs:
   deploy:
